@@ -1,6 +1,5 @@
 ## Environmental Variables 
-After cloning/copying this repository, create a local .env file and add the following variables
-to use in your notebook:
+After cloning/copying this repository, create a local .env file and add the following variables:
 
 ```bash
 export OKAPI_URL=https://okapi-url
